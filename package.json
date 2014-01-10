@@ -1,0 +1,17 @@
+{
+  "name": "knox-s3-test",
+  "version": "0.0.0",
+  "description": "testing knox and s3",
+  "private": "true",
+  "main": "index.coffee",
+  "scripts": {
+    "start": "coffee index.coffee"
+  },
+  "author": "Steve McCarthy <steve@redlua>",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "~1.6.3",
+    "knox": "~0.8.8",
+    "walk": "~2.2.1"
+  }
+}
